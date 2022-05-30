@@ -1,6 +1,6 @@
-layout: page
-title: "The Game of Nim"
-permalink: /nimgame/
+---
+permalink: /nim-game
+---
 
 ```markdown
 From Example program
