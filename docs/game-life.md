@@ -1,5 +1,5 @@
 layout: page
 title: "PAGE TITLE"
-permalink: /URL-PATH/
+permalink: /life-game/
 
 John Conway's Game of Life
