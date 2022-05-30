@@ -1,15 +1,20 @@
-## Welcome to GitHub Pages
+# Welcome to my GitHub page
 
-You can use the [editor on GitHub](https://github.com/M-STIG/m-stig.github.io/edit/m-stig.io/docs/index.md) to maintain and preview the content for your website in Markdown files.
+## Contact me
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+For professional inquiries, please find me on [LinkedIn](https://www.linkedin.com/in/richiemichael/).
+For art and automotive inquiries, please find me on 
 
-### Markdown
+### example 1
+
+### example 2
+
+### yet another example
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
+From Example program
 
 # Header 1
 ## Header 2
@@ -22,6 +27,8 @@ Syntax highlighted code block
 2. List
 
 **Bold** and _Italic_ and `Code` text
+
+* Italic *
 
 [Link](url) and ![Image](src)
 ```
