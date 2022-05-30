@@ -6,7 +6,7 @@
 - For art and automotive inquiries, please find me on
 - Some recent and past projects include the following.
 
-### The Game of Nim
+### [The Game of Nim](https://m-stig.github.io/nim-game)
 
 ### Approximating Pi
 
