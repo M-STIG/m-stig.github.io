@@ -2,14 +2,15 @@
 
 ## Contact me
 
-For professional inquiries, please find me on [LinkedIn](https://www.linkedin.com/in/richiemichael/).
-For art and automotive inquiries, please find me on 
+- For professional inquiries, please find me on [LinkedIn](https://www.linkedin.com/in/richiemichael/).
+- For art and automotive inquiries, please find me on
+- Some recent and past projects include the following.
 
-### example 1
+### The Game of Nim
 
-### example 2
+### Approximating Pi
 
-### yet another example
+### John Conway's Game of Life
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
