@@ -6,7 +6,7 @@
 - For art and automotive inquiries, please find me on [Instagram](need).
 - Contact me [via email](mailto:michael.richie.r3@gmail.com).
 
-###Some recent and past projects include the following:
+### Some recent and past projects include the following:
 
 ### [The Game of Nim](https://m-stig.github.io/nim-game)
 
