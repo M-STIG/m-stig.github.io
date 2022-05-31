@@ -11,22 +11,24 @@ In an example of this exercise, we will create a space that contains a quarter c
 Our final calculation will be multiplied by 4 to obtain a whole estimate of Pi.
 
 ```java
+//-Variable to keep track of the number of coordinates within the circle.
+int inside = 0;
 //-Create a new random number generator.
-		Random n = new Random();
-		//-For loop executes the input number of desired coordinates
-		for (int j=0; j<e; j++) {
-			//-Generate new x and y coordinates
-			x = n.nextDouble();
-			y = n.nextDouble();
-			/*-Check to see if the coordinate is within 1 distance of the origin
-			 * and thus within the circle.*/
-			if (Math.sqrt(Math.pow(x, 2) + Math.pow(y, 2)) < 1) {
-				//-Increment the number of coordinates within the circle if true.
-				inside++;
-			}
-		}
-		/*-Pi is estimated by dividing the number of coordinates inside the circle by the total
-		 * number of coordinates and then multiplying that number by four since the original
-		 * estimate is for one quarter of the actual circle*/
-		estimate = 4 * ((double) inside / e);
+Random n = new Random();
+//-For loop executes the input number of desired coordinates
+for (int j=0; j<e; j++) {
+	//-Generate new x and y coordinates
+	x = n.nextDouble();
+	y = n.nextDouble();
+	/*-Check to see if the coordinate is within 1 distance of the origin
+	 * and thus within the circle.*/
+	if (Math.sqrt(Math.pow(x, 2) + Math.pow(y, 2)) < 1) {
+		//-Increment the number of coordinates within the circle if true.
+		inside++;
+	}
+}
+/*-Pi is estimated by dividing the number of coordinates inside the circle by the total
+ * number of coordinates and then multiplying that number by four since the original
+ * estimate is for one quarter of the actual circle*/
+estimate = 4 * ((double) inside / e);
 ```
