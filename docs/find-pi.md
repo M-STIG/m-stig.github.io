@@ -2,7 +2,7 @@
 permalink: /find-pi
 ---
 
-## [Approximating Pi]()
+## [Approximating Pi](https://github.com/M-STIG/monte-carlo-pi)
 One method for approximating the value of Pi could be the use of a Monte Carlo method.
 By creating a circle within a bounding square, the value of Pi can be found by calculating the ratio of the area of the circle divided by the area of the bounding square.
 A rough approximation of Pi can be achieved by placing many random points within that overall area and then dividing the number of points that fell within the circle by the total number of points placed.
