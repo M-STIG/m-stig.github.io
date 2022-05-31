@@ -1,23 +1,13 @@
 ---
 permalink: /nim-game
 ---
+## Nim
+Is an ancient game where two players take turns removing objects from piles or rows. Traditionally players must take at least one stone each turn but may take as many items as they want from one pile at a time: even a whole pile of objects. Whichever player picks the last object from the piles wins the game. Over time there have been many variations of Nim.
 
-```markdown
+## [One-Pile Nim]()
+One variation of Nim which features a single pile of ojects, One-Pile Nim, rules that each turn a player may remove at least one but no more than half of the pile of objects.
+
+```java
 From Example program
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-* Italic *
-
-[Link](url) and ![Image](src)
 ```
