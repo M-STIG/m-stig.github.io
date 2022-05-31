@@ -32,3 +32,19 @@ for (int j=0; j<e; j++) {
  * estimate is for one quarter of the actual circle*/
 estimate = 4 * ((double) inside / e);
 ```
+
+Although time complexity is approximately linear with a Monte Carlo method like this, it is not generally efficient as a large number of points need to be generated to get more accurate results. And while our estimates do tend to improve with larger sample sizes, the estimates of Pi may be effected by the reliability of the random number generator used.
+
+```java
+For 100 random coordinates, 75 fell inside the circle.
+Pi is estimated at: 3.0
+Calculated in 1 milliseconds.
+
+For 100000 random coordinates, 78633 fell inside the circle.
+Pi is estimated at: 3.14532
+Calculated in 8 milliseconds.
+
+For 100000000 random coordinates, 78536884 fell inside the circle.
+Pi is estimated at: 3.14147536
+Calculated in 3506 milliseconds.
+```
