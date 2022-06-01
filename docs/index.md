@@ -3,7 +3,7 @@
 ## Contact me
 
 - For professional information, please find me on [LinkedIn](https://www.linkedin.com/in/richiemichael/).
-- For art and automotive inquiries, please find me on [Instagram](need).
+- For art and automotive inquiries, please find me on [Instagram](https://www.instagram.com/slow_stig/?hl=en).
 - Contact me [via email](mailto:michael.richie.r3@gmail.com).
 
 ### Some recent and past projects include the following:
@@ -12,4 +12,4 @@
 
 ### [John Conway's Game of Life](https://m-stig.github.io/life-game)
 
-### [The Game of Nim](https://m-stig.github.io/error) :construction:
+### [The Game of Nim](https://m-stig.github.io/error) 🚧
