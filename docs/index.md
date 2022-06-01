@@ -6,6 +6,9 @@
 - For art and automotive inquiries, please find me on [Instagram](https://www.instagram.com/slow_stig/?hl=en){:target="_blank"}.
 - Contact me [via email](mailto:michael.richie.r3@gmail.com){:target="_blank"}.
 
+- For professional information, please find me on <a href="https://www.linkedin.com/in/richiemichael/" target="_blank">
+
+
 ### Some recent and past projects include the following:
 
 ### [Approximating Pi](https://m-stig.github.io/find-pi)
