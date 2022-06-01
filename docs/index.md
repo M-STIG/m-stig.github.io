@@ -4,7 +4,7 @@
 
 - For professional information, please find me on <a href="https://www.linkedin.com/in/richiemichael/" target="_blank">LinkedIn.</a>
 - For art and automotive inquiries, please find me on <a href="https://www.instagram.com/slow_stig/?hl=en" target="_blank">Instagram.</a>
-- Contact me [via email](mailto:michael.richie.r3@gmail.com){:target="_blank"}.
+- Contact me [via email](mailto:michael.richie.r3@gmail.com).
 
 ### Some recent and past projects include the following:
 
