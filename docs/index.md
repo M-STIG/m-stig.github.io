@@ -12,4 +12,4 @@
 
 ### [John Conway's Game of Life](https://m-stig.github.io/life-game)
 
-### [The Game of Nim](https://m-stig.github.io/error)
+### [The Game of Nim](https://m-stig.github.io/error) :construction:
