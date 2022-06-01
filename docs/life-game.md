@@ -47,6 +47,6 @@ Can exist in the Game of Life as stable or repeating structures. Still patterns 
 |![boat.png](./boat.png)|![blinker.gif](blinker.gif)|![glider.gif](glider.gif)|
 
 Interestingly, these patterns will often appear from randomly generated populations.
-![Conway simulation results](./conwaySet.png)
+![Conway simulation results](./conwaySet.PNG)
 
 [^1]:[Images found on Wikipedia](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
